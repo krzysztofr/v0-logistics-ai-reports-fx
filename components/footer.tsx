@@ -40,6 +40,11 @@ export function Footer() {
                   Terms of Service
                 </Link>
               </li>
+              <li>
+                <Link href="/sign-up" className="hover:text-foreground transition-colors text-xs">
+                  sign up
+                </Link>
+              </li>
             </ul>
           </div>
 
