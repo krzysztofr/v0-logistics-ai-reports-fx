@@ -104,11 +104,11 @@ export default async function ReportsListPage() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
               <Image
-                src="/cyberlogix-logo.jpeg"
+                src="/cyberlogix-new-logo.jpeg"
                 alt="CyberLogix.ai"
-                width={280}
-                height={50}
-                className="h-12 w-auto"
+                width={320}
+                height={80}
+                className="h-16 w-auto"
                 priority
               />
             </div>
