@@ -46,7 +46,7 @@ export default async function ReportDetailPage({ params }: { params: Promise<{ i
             <div className="flex items-center gap-4">
               <Link href="/" className="hover:opacity-80 transition-opacity">
                 <Image
-                  src="/cyberlogix-logo.jpeg"
+                  src="/cyberlogix-new-logo.jpeg"
                   alt="CyberLogix.ai"
                   width={240}
                   height={44}
